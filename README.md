@@ -16,7 +16,7 @@ This Python script stops all Docker containers using the `sudo docker kill` comm
 2. Run the script:
 
     ```bash
-    python docker_script.py
+    python docker_stop.py
     ```
 
 3. View the script output and the current Docker processes.
